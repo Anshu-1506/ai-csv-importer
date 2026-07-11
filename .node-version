@@ -1,0 +1,2 @@
+# Create .node-version file in the project root
+echo "20.18.0" > .node-version
