@@ -140,7 +140,7 @@ export default function Home() {
       {/* Footer */}
       <footer className="border-t border-border mt-12">
         <div className="container max-w-7xl mx-auto px-4 py-6 text-center text-sm text-muted-foreground">
-          Powered by Groq AI • Intelligent CSV Import
+          Powered by OpenRouter AI • Intelligent CSV Import
         </div>
       </footer>
     </main>
