@@ -212,7 +212,7 @@ This project was developed as part of the GrowEasy Software Developer Assignment
 
 Feel free to fork, explore, and improve the project.
 
-## 🚀 Deployment
+🚀 Deployment
 The application is deployed on:
 
 Backend: Render
