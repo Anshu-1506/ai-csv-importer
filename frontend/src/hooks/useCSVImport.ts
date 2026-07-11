@@ -1,7 +1,7 @@
 'use client';
 
 import { useState } from 'react';
-import Papa from 'papaparse';
+import * as Papa from 'papaparse';
 import { ImportResult, ImportProgress, UploadResponse } from '@/types';
 
 export function useCSVImport() {
