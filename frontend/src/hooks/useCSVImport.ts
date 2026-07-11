@@ -1,7 +1,8 @@
 'use client';
 
 import { useState } from 'react';
-import * as Papa from 'papaparse';
+// @ts-ignore - papaparse types are installed but Vercel cache issue
+import Papa from 'papaparse';
 import { ImportResult, ImportProgress, UploadResponse } from '@/types';
 
 export function useCSVImport() {
